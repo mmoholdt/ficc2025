@@ -1,0 +1,1 @@
+C:\src\ficc2025\ficc2025\Client\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config

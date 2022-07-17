@@ -1,0 +1,12 @@
+C:\src\ficc2025\ficc2025\Shared\bin\Release\net6.0\ficc2025.Shared.deps.json
+C:\src\ficc2025\ficc2025\Shared\bin\Release\net6.0\ficc2025.Shared.dll
+C:\src\ficc2025\ficc2025\Shared\bin\Release\net6.0\ficc2025.Shared.pdb
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ficc2025.Shared.csproj.AssemblyReference.cache
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ficc2025.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ficc2025.Shared.AssemblyInfoInputs.cache
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ficc2025.Shared.AssemblyInfo.cs
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ficc2025.Shared.csproj.CoreCompileInputs.cache
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ficc2025.Shared.dll
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\refint\ficc2025.Shared.dll
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ficc2025.Shared.pdb
+C:\src\ficc2025\ficc2025\Shared\obj\Release\net6.0\ref\ficc2025.Shared.dll
